@@ -11,7 +11,6 @@ import { Outlet } from 'react-router-dom';
 import PostListeProvider from './store/post-list-store';
 function App() {
 
-    // const [selectedTab, setSelectedTab] =useState("Home");
 
     return ( 
     <>
