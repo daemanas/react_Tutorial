@@ -1,0 +1,27 @@
+.nav-pills .nav-link {
+    width: 150px;
+    height: 40px;
+}
+
+.app-container {
+    display: flex;
+}
+.containt {
+    min-height: 100%;
+}
+
+.post-card{
+    padding: 20px;
+    margin: 20px;
+}
+.hastag{
+    margin:0px 3px;
+}
+
+.create-post{
+    width: 70%;
+    margin: 10%;
+}
+.welcome-msg{
+    margin: 100px 0;
+}
